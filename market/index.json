@@ -21,11 +21,11 @@
       "versions": [
         {
           "version": "1.0.0",
-          "publishTimestamp": 1793684352,
+          "publishTimestamp": 1793699676,
           "source": {
             "type": "git",
             "url": "https://github.com/sduaa/claude-orange",
-            "commit": "2bbb06079b57013cd7ec7f87fa06629d080dff7c"
+            "commit": "e6ec176fabc2a07882f7e2ed802a893bc6989148"
           },
           "engines": { "dsh": "*" }
         }
