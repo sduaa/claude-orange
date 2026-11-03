@@ -1,0 +1,35 @@
+{
+  "format": 1,
+  "title": { "en": "sduaa's DSH Themes", "zh": "sduaa 的 DSH 主题市场" },
+  "description": { "en": "Community theme bundles for the DSH web GUI", "zh": "DSH Web 界面的社区主题 bundle" },
+  "plugins": [
+    {
+      "name": "claude-orange",
+      "title": { "en": "Claude Orange", "zh": "Claude 橙" },
+      "description": {
+        "en": "Claude Orange theme for the DSH web GUI: warm terracotta and parchment palette, light + dark variants, serif UI (Source Han Serif), mono code, adaptive chat column width.",
+        "zh": "DSH Web 界面的橙色 Claude 主题：陶土橙 + 奶油纸面配色，亮 / 暗双模式，思源宋体 UI、等宽代码字体，聊天栏自适应加宽。"
+      },
+      "icon": "icon.svg",
+      "author": "sduaa",
+      "homepage": "https://github.com/sduaa/claude-orange",
+      "repository": { "url": "https://github.com/sduaa/claude-orange" },
+      "metadata": {
+        "keywords": ["theme", "skin", "appearance", "claude", "orange"]
+      },
+      "dist-tags": { "latest": "1.0.0" },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1793684352,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/sduaa/claude-orange",
+            "commit": "2bbb06079b57013cd7ec7f87fa06629d080dff7c"
+          },
+          "engines": { "dsh": "*" }
+        }
+      ]
+    }
+  ]
+}

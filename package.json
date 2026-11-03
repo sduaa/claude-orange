@@ -24,6 +24,9 @@
     "watch": "tsdown --watch"
   },
   "license": "MIT",
+  "engines": {
+    "dsh": "*"
+  },
   "devDependencies": {
     "lightningcss": "^1.32.0",
     "tsdown": "^0.22.2",
