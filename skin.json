@@ -1,0 +1,26 @@
+{
+  "id": "claude-orange",
+  "name": "Claude Orange",
+  "nameEn": "Claude Orange Parchment",
+  "author": "sduaa",
+  "tagline": "暖陶土橙 · 羊皮纸面 · 思源宋体 + SF Mono",
+  "description": "Claude 暖光羊皮纸主题：陶土橙强调 #DA7756、奶油纸面 #F5F3EE、暖黑正文 #1D1B16，暗色模式暖炭底 #1D1B16，UI 用思源宋体、代码用 SF Mono，链接/焦点由 DeepSeek 蓝重映射为暗金色，聊天栏自适应加宽（两侧留白 100px，上限 1500px）。",
+  "tags": [
+    "claude",
+    "orange",
+    "warm",
+    "light",
+    "dark",
+    "terracotta",
+    "parchment",
+    "serif"
+  ],
+  "accent": "#DA7756",
+  "bodyAttr": "data-dsh-claude-orange",
+  "package": "claude-orange",
+  "wiring": {
+    "id": "ui-claude-orange",
+    "bundleWired": true
+  },
+  "order": 9
+}
